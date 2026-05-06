@@ -53,6 +53,7 @@ const server = http.createServer((req, res) => {
   }));
   return;
   }
+  
   // =====================================================
   // ACTIVIDAD 1: agrega tu endpoint /aboutme aquí arriba
   // (antes de este comentario y del 404 de abajo)
